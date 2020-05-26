@@ -3,3 +3,4 @@
 - [ ] this is an incomplete item
 - [X] this is a complete item
 - [x] list syntax required
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
