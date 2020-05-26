@@ -16,3 +16,6 @@ Content in the first column | Content in the second column
 def foo ():
   if not bar:
       return true
+
+
+~~
